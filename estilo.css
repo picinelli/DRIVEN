@@ -1,0 +1,130 @@
+body {
+    font-family: 'Encode Sans', sans-serif;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header {
+    width: 1250px;
+}
+main {
+    width: 1250px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+section {
+    margin-top: 30px;
+}
+section a {
+    text-decoration: none;
+}
+p {
+    color: #2F3134;
+}
+.barra-superior {
+    height: 80px;
+    font-size: 30px;
+    color: #0420FC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lista-superior {
+    font-size: 19x;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+    height: 44px;
+    align-items: center;
+    border-top: 1px solid #f5f6f7;
+    border-bottom: 1px solid #f5f6f7; ;
+}
+.listaFonte:hover {
+    font-size: 22px;
+}
+
+.imgEsq {
+    width: 192px;
+    height: 110px;
+    border-radius: 50%;
+    padding-right: 15px;
+}
+
+.legenda-imagem {
+    font-weight: 550;
+    font-size: 14px;
+    color: #C4170C;
+    width: 193px;
+    padding-top: 10px;
+}
+.titulo-imagem {
+    padding-top: 10px;
+    width: 192px;
+    font-weight: bold;
+    color: #2F3134;
+    font-size: 20px;
+
+}
+.descricao-imagem {
+    width: 192px;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.imgDir {
+    border-radius: 12px;
+    width: 240px;
+    height: 128px;
+}
+.legenda-imagemDir {
+    width: 240px;
+    font-size: 14px;
+    color: #C4170C;
+    padding-left: 70px;
+}
+.titulo-imagemDir {
+    width: 240px;
+    font-weight: bold;
+    color: #2F3134;
+    font-size: 20px;
+    padding-left: 70px;
+}
+.descricao-imagemDir {
+    width: 240px;
+    padding-top: 10px;
+    font-size: 14px;
+    padding-left: 70px;
+}
+.imgDir2 {
+    border-radius: 12px;
+    width: 240px;
+    height: 128px;
+    margin-left: 35px;
+}
+.legenda-imagemDir2 {
+    width: 240px;
+    font-size: 14px;
+    color: #C4170C;
+    margin-left: 35px;
+}
+.titulo-imagemDir2 {
+    width: 240px;
+    font-weight: bold;
+    color: #2F3134;
+    font-size: 20px;
+    margin-left: 35px;
+}
+.descricao-imagemDir2 {
+    width: 240px;
+    padding-top: 10px;
+    font-size: 14px;
+    margin-left: 35px;
+}
+
+img {
+    border-radius: 12px;
+}
+a:hover {
+    opacity: 60%;
+}
