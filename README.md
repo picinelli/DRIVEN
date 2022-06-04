@@ -6,7 +6,7 @@
     <img src="https://bootcampra.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F417fa247-489d-4658-a818-d2c8b7e2021c%2Fglobocom.png?table=block&id=5212748a-5d40-42ac-8f1e-1e9fb11d9a94&spaceId=f797e032-5eb2-4c9d-beb7-cd7181e19e47&width=250&userId=&cache=v2" alt="Logo" width="100">
   </a>
 
-<h3 align="center">Projeto - Cineflex</h3>
+<h3 align="center">Projeto - Globo</h3>
   <h4 align="center"> 
 	🚀 Concluído! 🚀
   </h4>
